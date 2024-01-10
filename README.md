@@ -7,12 +7,10 @@ Tools Used:
 -FastAPI
 -Python
 -Scikit-Learn
--Step-by-Step:
 -Pandas
 -Matplotlib
 -Numpy
 -Seaborn
--Wordcloud
 -NLTK
 -Uvicorn
 
@@ -32,11 +30,4 @@ EDA (Exploratory Data Analysis)
 Conducted an exploratory data analysis process where data was explored and analyzed thoroughly to gain insights, identify patterns, trends, and relationships, with the aim of making informed decisions based on the obtained information. The tools used were Numpy, Pandas, Matplotlib, Seaborn, Wordcloud, NLTK.
 
 Machine Learning Model
-Developed a machine learning model to generate game recommendations using algorithms and techniques such as cosine similarity and scikit-learn. The goal was to provide personalized and accurate recommendations based on the tastes and preferences of each user. If it is an item-item recommendation system:
-
-recomendacion_juego (game recommendation): By entering the product id ('id'), we should receive a list of 5 games recommended similar to the entered one.
-Example usage: 70
-If it is a user-item recommendation system:
-recomendacion_usuario (user recommendation): By entering the user id ('user_id'), we should receive a list of 5 games recommended for that user.
-Example usage: 76561198030567998
-The tool used was Scikit-Learn with libraries: TfidfVectorizer, linear_kernel, cosine_similarity. These functionalities are also queryable in the API.
+Developed a machine learning model to generate game recommendations using algorithms and techniques such as cosine similarity and scikit-learn. The goal was to provide personalized and accurate recommendations based on the tastes and preferences of each user.
