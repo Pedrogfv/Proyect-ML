@@ -36,4 +36,6 @@ Render:
 https://dashboard.render.com/web/srv-cmf5pnect0pc73d6vdug/deploys/dep-cmf5pnuct0pc73d6ve10?r=2024-01-10%4009%3A00%3A19%7E2024-01-10%4009%3A04%3A46
 FastAPI:
 http://127.0.0.1:8000/docs#/
+Video:
+https://www.youtube.com/watch?v=I9CN-JZ9RCQ
 
